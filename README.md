@@ -1,9 +1,9 @@
 ### Hi, my name is Andrew Vinícius 👋🏽
-Sou um estudante de programação apaixonado por tecnologia e desenvolvimento de software. Tenho conhecimentos sólidos em JavaScript, Node.js e TypeScript, além de experiência com controle de versão utilizando Git e gerenciamento de pacotes com npm. Já trabalhei em pequenos projetos pessoais e colaborativos, explorando desde APIs simples até funcionalidades mais avançadas com backend em Node.
+I am a programming student with a passion for technology and software development. I have solid knowledge of JavaScript, Node.js and TypeScript, as well as experience with version control using Git and package management with npm. I have worked on small personal and collaborative projects, exploring everything from simple APIs to more advanced features with a Node backend.
 
-Possuo um conhecimento introdutório em bancos de dados relacionais como SQL Server e MySQL, o que me permite criar e consultar dados de forma eficiente. Estou em constante aprendizado, buscando aprimorar minhas habilidades técnicas e expandir meu domínio sobre o ecossistema do desenvolvimento web.
+I have introductory knowledge of relational databases such as SQL Server and MySQL, which allows me to create and query data efficiently. I am constantly learning, seeking to improve my technical skills and expand my knowledge of the web development ecosystem.
 
-Meu foco é crescer como desenvolvedor full stack, contribuindo para projetos desafiadores e aprendendo com cada etapa do processo.
+My focus is to grow as a full stack developer, contributing to challenging projects and learning from each step of the process.
 
 
 ## My social networks 🌎
